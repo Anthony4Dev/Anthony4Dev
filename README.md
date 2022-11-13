@@ -1,4 +1,4 @@
-## Olá meu nome é Islan Anthony !!
+## Hi my name is Islan Anthony !!
 
 - 💼 Looking for Work.
 - 🔭 Currently working in: HTML5, CSS3, BootStrap e JQuery.
