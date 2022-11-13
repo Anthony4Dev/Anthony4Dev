@@ -1,7 +1,7 @@
 ## Hi my name is Islan Anthony !!
 
 - 💼 Looking for Work.
-- 🔭 Currently working in: HTML5, CSS3, BootStrap e JQuery.
+- 🔭 Tools used: HTML5, CSS3, BootStrap e JQuery.
 - 🌱 I'm learning: PHP,Java and JavaScript.
 - 🤔 Needing help in: Back-end languages.
 - 📱 Contact: +55 (81)991395701
