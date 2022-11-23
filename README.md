@@ -2,7 +2,7 @@
 
 - 💼 Looking for Work.
 - 🔭 Tools used: HTML5, CSS3, BootStrap e JQuery.
-- 🌱 I'm learning: PHP,Java and JavaScript.
+- 🌱 I'm learning: MySQL,PHP,Java and JavaScript.
 - 🤔 Needing help in: Back-end languages.
 - 📱 Contact: +55 (81)991395701
 - 😄 Pronouns: He/him
