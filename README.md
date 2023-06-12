@@ -21,5 +21,7 @@
   <a href="https://www.linkedin.com/in/islan-anthony-649374200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-node.js-hA063?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=blue" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=pink" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=pink" target="_blank"></a>
   
  
