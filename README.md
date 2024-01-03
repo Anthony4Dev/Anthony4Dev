@@ -1,8 +1,8 @@
 ## Hi my name is Islan Anthony !!
 
 - 💼 Looking for Work.
-- 🔭 Tools used: HTML5, CSS3, BootStrap e JQuery.
-- 🌱 I'm learning: MySQL,PHP,TypeScript,Java and JavaScript.
+- 🔭 Tools used: HTML5, CSS3,JavaScript, MySQL, PHP, TypeScript, Java, BootStrap, JQuery, React.
+- 🌱 I'm learning: Springboot, JUnit, PhpUnit, React Native, GO.
 - 🤔 Needing help in: Back-end languages.
 - 📱 Contact: +55 (81)991395701
 - 😄 Pronouns: He/him
