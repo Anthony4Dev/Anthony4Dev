@@ -1,19 +1,14 @@
-## Hi my name is Islan Anthony !!
+  ## Olá meu nome é Islan Anthony !!
 
-- 💼 Looking for Work.
-- 🔭 Tools used: HTML5, CSS3,JavaScript, MySQL, PHP, TypeScript, Java, BootStrap, JQuery, React.
-- 🌱 I'm learning: Springboot, JUnit, PhpUnit, React Native, GO.
-- 🤔 Needing help in: Back-end languages.
-- 📱 Contact: +55 (81)991395701
-- 😄 Pronouns: He/him
+- 💼 Disponível.
+- 🔭 Tecnologias: HTML5, CSS3,JavaScript, MySQL, PHP, TypeScript, Java, BootStrap, JQuery, React.
+- 🌱 Aprendendo: Springboot, JUnit, PhpUnit, React Native, GO, Excel.
+- 📱 Contato: +55 (81)991395701
 
 <div align="center">
-  <a href="https://github.com/Anthony4Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthony4Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony4Dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthony4Dev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony4Dev&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
- 
- ##
  
  <a href="https://instagram.com/anthony_islan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
