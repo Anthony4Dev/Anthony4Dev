@@ -5,6 +5,8 @@
 - 🌱 Aprendendo: Springboot, JUnit, PhpUnit, React Native, GO, Excel.
 - 📱 Contato: +55 (81)991395701
 
+- Clique no ícone do Figma e olhe meu projeto, no momento está acessível apenas a aba de fisioterapia, assim que você clicar procure "Options" e selecione a opção "Fit to screen" para obter melhor experiência.
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthony4Dev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony4Dev&layout=compact&langs_count=7&theme=nightowl"/>
