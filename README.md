@@ -19,6 +19,6 @@
   <a href="https://nodejs.org/pt-br/docs" target="_blank"><img src="https://img.shields.io/badge/-node.js-hA063?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
   <a href="https://legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=blue" target="_blank"></a>
   <a href="https://www.figma.com/proto/aQkuF0N4gyqfqGqzTzVPmF/MultiSa%C3%BAde?node-id=181-2&starting-point-node-id=181%3A2&mode=design&t=KtOBDZncKkMwplRI-1" target="_blank"><img src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=pink" target="_blank"></a>
-  <a href="https://sass-lang.com/documentation/" target="_blank"><img src="https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=pink" target="_blank"></a>
+  <a href="https://sass-lang.com/documentation/" target="_blank"><img src="https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=php&logoColor=blue" target="_blank"></a>
   
  
