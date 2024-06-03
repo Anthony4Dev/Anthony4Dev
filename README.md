@@ -2,7 +2,7 @@
 
 - 💼 Auxiliar de Ti na Dokapack // I.T. Assistant on DokaPack.
 - 🔭 Tecnologia // Technology: HTML5, CSS3,JavaScript, MySQL, PHP, TypeScript, Java, BootStrap, JQuery, React.
-- 🌱 Aprendendo // Learning: Springboot, JUnit, PhpUnit, React Native, GO, Excel.
+- 🌱 Aprendendo // Learning: Springboot, JUnit, PhpUnit, React Native, Ruby, Golang, Excel.
 - 📱 Contato // Contact: +55 (81)991395701
 
 - Clique no ícone do Figma e olhe meu projeto, no momento está acessível apenas a aba de fisioterapia, assim que você clicar procure "Options" e selecione a opção "Fit to screen" para obter melhor experiência.
