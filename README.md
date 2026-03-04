@@ -1,8 +1,7 @@
   ## Olá meu nome é Islan Anthony !!
 
-- 💼 Assistente de Ti na Supporte // I.T. Assistant on Supporte.
-- 🔭 Tecnologia // Technology: HTML5, CSS3,JavaScript, MySQL, PHP, TypeScript, Java, BootStrap, JQuery, React.
-- 🌱 Aprendendo // Learning: Springboot, JUnit, PhpUnit, React Native, Ruby, Golang, Excel.
+- 💼 Analista de TI na Supporte // I.T. Analyst on Supporte.
+- 🔭 Tecnologia // Technology: SQL Server, SSMS, Git/Github.
 - 📱 Contato // Contact: +55 (81)991395701
 
   -Tenha acesso ao meu Portifólio // Have acess to my Portfolio:
