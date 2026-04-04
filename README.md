@@ -1,6 +1,6 @@
   ## Olá meu nome é Islan Anthony !!
 
-- 💼 Analista de TI na Supporte // I.T. Analyst on Supporte.
+- 💼 Analista de TI Nível 2 na Supporte // I.T. Analyst Level 2 on Supporte.
 - 🔭 Tecnologia // Technology: SQL Server, SSMS, Git/Github.
 - 📱 Contato // Contact: +55 (81)991395701
 
